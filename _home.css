@@ -1,0 +1,17 @@
+/*
+* Main Stylesheet for all webpages within this project (custom default)
+*/
+
+
+/* Reset Body */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 0;
+    /* Just in case */
+    background-color: #eceff1;
+}
