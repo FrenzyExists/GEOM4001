@@ -20,7 +20,7 @@ body {
 /* Banner Section - Contains the main top portion of the page */
 
 .banner {
-    background: url("../images/mountain");
+    background: url("surveying_images/mountains.jpeg");
     height: 30rem;
     color: rgb(25, 73, 76);
     margin: auto;
